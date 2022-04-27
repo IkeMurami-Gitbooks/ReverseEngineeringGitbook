@@ -28,6 +28,7 @@
   * [Go](tools/by-languages/go.md)
   * [Lua](tools/by-languages/lua.md)
   * [Rust](tools/by-languages/rust.md)
+  * [Adobe Flash Player Apps (SWF)](tools/by-languages/adobe-flash-player-apps-swf.md)
 * [Информация о бинарном файле](tools/informaciya-o-binarnom-faile.md)
 * [Отладчики](tools/untitled.md)
 * [Трейсеры](tools/treisery.md)
