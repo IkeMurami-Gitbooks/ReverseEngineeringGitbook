@@ -16,5 +16,5 @@ px@0x123!45 - по смещению 0x123 вывести 45 байт
 
 Cutter - GUI Rizin-а, с недавних пор. Cutter поставляется с тем же декомпилятором, что и Ghidra: rz-ghidra входит в сборку, как и jsdec: http://github.com/rizinorg/rz-ghidra/
 
-
+Видосики по реверсу с помощью Radare2: [https://artik.blue/reversing](https://artik.blue/reversing)
 
