@@ -11,10 +11,12 @@ SharkyCTF PWN Writeups (with exploits): [https://github.com/TaQini/ctf/tree/mast
 
 Офигенный последовательный в повествовании набор материалов: [http://www.fuzzysecurity.com/tutorials.html](http://www.fuzzysecurity.com/tutorials.html)
 
-Обучение ROP: [https://ropemporium.com/](https://ropemporium.com)\
+Обучение ROP: [https://ropemporium.com/](https://ropemporium.com/)\
 ropa is a Ropper-based GUI that streamlines crafting ROP chains: [https://github.com/orppra/ropa](https://github.com/orppra/ropa)
 
 {% file src="../.gitbook/assets/pwn.zip" %}
 Таски на pwn  c SharkyCTF 2020
 {% endfile %}
+
+Exploit Exercises: Введение в эксплуатацию бинарных уязвимостей на примере Protostar / Хабр [https://habr.com/ru/post/320460/](https://habr.com/ru/post/320460/)
 
