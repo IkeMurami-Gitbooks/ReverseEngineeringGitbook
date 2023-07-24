@@ -5,3 +5,5 @@
 Парсинг PE-файлов (исполняемые файлы — библиотеки, бинари, еще что?.. — на винде) на Go (поддерживает битые файлы): [https://github.com/saferwall/pe](https://github.com/saferwall/pe)&#x20;
 
 SigFlip — патчинг PE без нарушения подписи? [https://github.com/med0x2e/SigFlip](https://github.com/med0x2e/SigFlip)
+
+Что-то про taint анализ [https://github.com/trailofbits/polytracker/tree/master](https://github.com/trailofbits/polytracker/tree/master)
