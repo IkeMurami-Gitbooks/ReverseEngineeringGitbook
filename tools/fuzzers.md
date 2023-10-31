@@ -27,3 +27,7 @@ radamsa -n 1000 -o %n.txt example1.txt example2.txt
 FLUFFI - фреймворк для "пентестров" для фаззинга бинарей [https://github.com/siemens/fluffi](https://github.com/siemens/fluffi)
 
 Что специалисты из NCC Group использовали для фаззинга 5g protocols: [https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols/](https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols/)
+
+ClusterFuzz — ферма фаззинга от Google
+
+OneFuzz — ферма фаззинга от Microsoft
