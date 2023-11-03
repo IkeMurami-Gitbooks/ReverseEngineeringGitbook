@@ -70,4 +70,5 @@
 
 ## MacOS
 
+* [Как увидеть логи приложения](macos/kak-uvidet-logi-prilozheniya.md)
 * [Код ядра](macos/kod-yadra.md)
