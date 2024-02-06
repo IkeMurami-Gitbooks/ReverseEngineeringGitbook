@@ -31,3 +31,5 @@ FLUFFI - фреймворк для "пентестров" для фаззинг�
 ClusterFuzz — ферма фаззинга от Google
 
 OneFuzz — ферма фаззинга от Microsoft
+
+valgrind, addrsanitizer, bullseye, svace, libfuzzer, statsviz, AFL++
