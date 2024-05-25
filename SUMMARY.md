@@ -15,6 +15,7 @@
 * [Теория](pwn/teoriya/README.md)
   * [Техника Blind ROP](pwn/teoriya/tekhnika-blind-rop.md)
   * [Курсы](pwn/teoriya/kursy.md)
+  * [Vulnerabilities](pwn/teoriya/vulnerabilities.md)
   * [Функции](pwn/teoriya/funkcii/README.md)
     * [C++ memory corruption examples](pwn/teoriya/funkcii/c++-memory-corruption-examples.md)
     * [snprintf](pwn/teoriya/funkcii/snprintf.md)

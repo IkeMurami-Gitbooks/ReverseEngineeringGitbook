@@ -17,5 +17,5 @@ From R0
 
 ## 3
 
-pwn college — [https://pwn.college/](https://pwn.college)
+pwn college — [https://pwn.college/](https://pwn.college/)
 
